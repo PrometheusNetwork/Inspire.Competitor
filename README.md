@@ -1,2 +1,2 @@
 # Inspire.Competitor
-https://www.youtube.com/@LaunchDarkly Ad: [LaunchDarkly Explainer Video](https://youtu.be/dFd_rLThN00) Lander: 
+https://www.youtube.com/@LaunchDarkly Ad: [LaunchDarkly Explainer Video](https://youtu.be/dFd_rLThN00) Lander: https://launchdarkly.com/pa/feature-flags/form/?utm_source=google&utm_medium=cpc&utm_campaign=AMS_Performance-Max_Non-Brand&utm_adgroup=&utm_content=&utm_term=&matchtype=&creative=&device=c&_bt=&_bn=x&gad_source=2&gclid=EAIaIQobChMIvuOE4IesjgMVRiuHAx0e_zh-EAEYAiAAEgLlYvD_BwE
